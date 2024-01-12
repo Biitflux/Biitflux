@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing my apprenticeship as an IT specialist for application development in Germany<br>🌱 I’m currently learning C++, C#, Java, Python and more!<br>💬 Ask me about everything<br>⚡ Fun Fact: I've been playing Minecraft since 2009 and still love it!
+🔭 I’m currently doing my apprenticeship as an IT specialist for application development in Germany<br>🌱 I’m currently learning C++, C#, Java, Python and more!<br>💬 Ask me about everything<br>⚡ Fun Fact: I've been playing Minecraft since 2009 and still love it!<br>🎓My certificates Klick(https://shorturl.at/hryRX)
 
 
 ## 🌐 Socials:
